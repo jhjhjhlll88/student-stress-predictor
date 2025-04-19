@@ -1,0 +1,26 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Data
+*.h5
+*.pkl
+*.csv
+*.data
+*.json
+
+# Environment
+.env
+.DS_Store
+
+# Large files
+*.zip
+*.tar
+*.gz
+
+# IDE
+.vscode/
+.idea/
